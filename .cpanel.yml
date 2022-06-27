@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=
+/home/qlkgkpaehosting/public_html/ithouse.amios.xyz/wp-content/themes/blocksy-child/codepack
+    - /bin/cp -R images $DEPLOYPATH
